@@ -1,1 +1,1 @@
-I am your DnD Wiki.
+I am your DnD Wiki for the Campaign for Bros.  This is updated by your DM from time to time.
