@@ -1,14 +1,9 @@
 ---
-title: Winkus of Neverwinter
+title: "NPCs"
 draft: false
 tags:
   -
 ---
- 
-**
-
-# NPC Bard: Winkus Thricebound of Neverwinter
-
 A gnome bard with untamed ginger curls, a lute shaped like a pineapple, and the attention span of a raccoon on sugar. He's on a "legend hunt" for stories too absurd to be true—until he sees one of your adventurers with a third leg. His muse strikes instantly.
 
 ---

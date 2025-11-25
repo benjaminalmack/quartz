@@ -5,7 +5,7 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - NPCs
+    - Winkus Thricebound of Neverwinter
   sceneTemplate: z_Templates/chapter.md
   ignoredFiles: []
 ---
